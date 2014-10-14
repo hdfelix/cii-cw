@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["smart","superscript"]
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Children Service
+tagline:          "Raising up gospel seeds"
+description:      "Church in Irvine children's work resources"
+url:              children.churchinirvine.org 
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+collections:
+  lessons:
+    output: true

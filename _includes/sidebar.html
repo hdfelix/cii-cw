@@ -1,0 +1,31 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
+
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+
+    <a class="sidebar-nav-item{% if page.title == "Songs" %} active{% endif %}"  href="/about">About</a>
+    <a class="sidebar-nav-item{% if page.title == "Songs" %} active{% endif %}"  href="/songs">Songs</a>
+    <a class="sidebar-nav-item{% if page.title == "Crafts" %} active{% endif %}" href="/crafts">Crafts</a>
+    <a class="sidebar-nav-item{% if page.title == "Activities" %} active{% endif %}" href="/activities">Activities</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
+</div>
