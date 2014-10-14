@@ -1,10 +1,10 @@
-# Church in Irvine - Children's Service
+### Church in Irvine - Children's Service
 
-## Lessons
+#### Lessons
 
-## Songs
+#### Songs
 
-## Crafts
+#### Crafts
 
-## Activities
+#### Activities
 
