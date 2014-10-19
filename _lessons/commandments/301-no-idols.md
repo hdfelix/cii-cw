@@ -2,6 +2,7 @@
 layout: lesson
 topic: No Idols
 categories: commandments
+lesson_no: 301
 ---
 
 Verse

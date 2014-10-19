@@ -2,6 +2,7 @@
 layout: lesson
 topic: "God's Greatness Seen in the Heavens"
 categories: creation
+lesson_no: 200
 ---
 
 ## Elementary

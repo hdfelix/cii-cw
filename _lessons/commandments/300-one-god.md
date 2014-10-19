@@ -2,6 +2,7 @@
 layout: lesson
 topic: One God
 categories: commandments
+lesson_no: 300
 ---
 
 ### Elementary
