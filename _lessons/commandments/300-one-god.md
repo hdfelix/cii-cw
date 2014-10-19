@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: One God
-categories: ten-commandments
+topic: One God
+categories: commandments
 ---
 
 ### Elementary

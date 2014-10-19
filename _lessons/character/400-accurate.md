@@ -1,4 +1,5 @@
 ---
 layout: lesson
-title: accurate
+topic: accurate
+categories: character
 ---

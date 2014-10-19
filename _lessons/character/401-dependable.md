@@ -1,4 +1,5 @@
 ---
 layout: lesson
-title: dependable
+topic: dependable
+categories: character
 ---

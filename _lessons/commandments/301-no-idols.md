@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: No Idols
-categories: ten-commandments
+topic: No Idols
+categories: commandments
 ---
 
 Verse

@@ -1,4 +1,5 @@
 ---
 layout: lesson
-title: diligent
+topic: diligent
+categories: character
 ---
