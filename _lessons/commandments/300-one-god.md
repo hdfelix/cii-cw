@@ -6,7 +6,7 @@ categories: commandments
 
 ### Elementary
 <br />
-#### Verse
+#### Verses
 “I am Jehovah your God” (Exodus 20:2a). 
 “You shall have no other gods before Me” (Exodus 20:3). 
 

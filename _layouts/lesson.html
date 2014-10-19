@@ -3,6 +3,20 @@ layout: default
 ---
 
 <div class="lesson">
-  <h1 class="lesson-title">{{ page.title }}</h1>
+  <h1 class="lesson-title">{{page.categories | capitalize }} - {{ page.topic | capitalize  }} ({{ page.lesson_no }})</h1>
+  <br /><br />
+
+  <a class="pdf" href="/pdf/lessons/{{ page.lesson_no }}--{{ page.categories | capitalize }} - {{ page.topic | capitalize | replace: "'", "" | replace: " ", "-" | append: ".pdf" }}" target="_blank">view pdf</a> 
+
   {{ content }}
+
+  <br />
+    <p class="note">
+      Note: The practical applications provided in the lesson are 
+      offered as suggestions to help the saints in their preparation. They are not 
+      meant to direct or limit the ways in which the focus of the lesson can be applied.
+      The saints are encouraged to pray and contact the Lord to receive His burden
+      and guidance in teaching and applying the lesson. Fellowship with other saints,
+      and inquiring of the children themselves, may also bring out many helpful applications.
+    </p>
 </div>

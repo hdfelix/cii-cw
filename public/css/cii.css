@@ -1,3 +1,11 @@
 li { width: 500px; }
 li span { padding-right: 5px; float: right; }
 li span span { padding-left: 10px; }
+
+h1, h2 { text-align: center; }
+
+.note {font-size: 10pt; color: #bbbbbb; }
+
+a.pdf { float: right; }
+
+div.categories ul { text-align: center; list-style: none; }
