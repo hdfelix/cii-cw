@@ -3,7 +3,7 @@ layout: page
 permalink: /god-is/index.html
 ---
 
-### God is... 
+### Lessons on: What God is
 <ul>
 {% for lesson in site.lessons %}
   {% if lesson.categories contains 'god-is' %}

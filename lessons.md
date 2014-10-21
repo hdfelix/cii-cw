@@ -3,11 +3,10 @@ layout: lesson-categories
 title: Lesson Categories
 ---
 
-* [Commandments ]({{ site.lessons.relative_path }}/commandments/)
+* [The Ten Commandments ]({{ site.lessons.relative_path }}/commandments/)
 * [Creation ]({{ site.lessons.relative_path }}/creation/)
-* [God is...]({{ site.lessons.relative_path }}/god-is/)
+* [What God is]({{ site.lessons.relative_path }}/god-is/)
 * [Character]({{ site.lessons.relative_path }}/character/)
-* [General Information]({{ site.lessons.relative_path }}/general-info/)
 * [Proper Humanity]({{ site.lessons.relative_path }}/proper-humanity/)
 
 <br /><br />

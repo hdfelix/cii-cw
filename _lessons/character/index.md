@@ -3,7 +3,7 @@ layout: page
 permalink: /character/index.html
 ---
 
-### Character
+### Lessons on: Character
 <ul>
 {% for lesson in site.lessons %}
   {% if lesson.categories contains 'character' %}

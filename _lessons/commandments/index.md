@@ -3,7 +3,7 @@ layout: page
 permalink: /commandments/index.html
 ---
 
-### Commandments 
+### Lessons on: The Ten Commandments 
 <ul>
 {% for lesson in site.lessons %}
   {% if lesson.categories contains 'commandments' %}

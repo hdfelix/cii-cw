@@ -3,7 +3,7 @@ layout: page
 permalink: /creation/index.html
 ---
 
-### Creation 
+### Lessons on: Creation 
 <ul>
 {% for lesson in site.lessons %}
   {% if lesson.categories contains 'creation' %}

@@ -62,6 +62,8 @@ preciousness of man (humanity) in God’s creation, showing that man is differen
 from the animals, 4) what is proper humanity, 5) what is proper character, and, 6) to 
 know the law (intermediate and advanced age group). 
 
+- - -
+
 ## CARING FOR THE CHILDREN ON LORD’S DAY IN THE DISTRICTS
 
 ### Nature
@@ -153,6 +155,8 @@ given to the 6th graders, we would recommend that those parents have a children�
 home meeting during the week where they can cover those lessons with their 
 children. 
 
+- - -
+
 ## PREPARATION BEFORE THE CHILDREN’S MEETING
 
 Introduction: The lesson materials were not prepared as detailed lesson plans but as a starting point for 
@@ -176,8 +180,10 @@ week.
 with food dyes, etc. Cut up fruits with water are always good options. 
 * Plan some activities and games. 
 
+- - -
 ## PRESENTATION OF THE LESSON 
 Introduction: It is not necessary to have different age groups in separate classrooms but it is necessary to give the lesson to different age groups separately or at different times. One group of children might do the craft or play while another group of children gets their lesson.
+
 * It is better for the lesson to be short than long. The following are suggested lengths for the lessons: Elementary – 10 minutes, Intermediate – 15 minutes, Advanced – 20 minutes. 6 
 * When giving the lesson be personal, interesting, and informal. Consider how to give the lesson without the classroom format (e.g. while taking a nature walk, while eating a snack). Do your best to engage the children. Make the lesson interactive where children are able to answer questions or express their thoughts. 
 * We should present the lessons in a very practical way, using many illustrations, examples and testimonies that are applicable to their daily life. Visuals can also help especially with the younger kids. Some useful visual aids are: white boards, pictures, and objects related to the lesson. Skits or plays should not be used to give a lesson. 
@@ -188,6 +194,7 @@ Introduction: It is not necessary to have different age groups in separate class
 * We should not give the children religious concepts and thoughts. For example, God loves the good people and is angry with the bad people; or that people go to heaven when they die. 
 * We should avoid emphasizing the exercise of their spirit using life practices (e.g. calling on the Lord, pray-reading His word) until the children are regenerated, scaring them with details about God’s judgment and the lake of fire, and bringing up holidays and festivals that are earthly and even pagan (e.g. Christmas, Easter, Halloween and Valentine’s Day). 
 
+- - -
 
 ## QUESTIONS AND ANSWERS ABOUT DISTRICTING AND THE CHILDREN
 
