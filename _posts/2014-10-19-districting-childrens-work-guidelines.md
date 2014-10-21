@@ -43,6 +43,7 @@ fellowship and consider how to impart the key point(s) from the lesson.
 
 ### Our Lessons
 The lessons have been prepared for 3 age groups (levels): 
+
 * (1) ELEMENTARY – 4-6 years old 
 * (2) INTERMEDIATE – 7-9 years old 
 * (3) ADVANCE – 10-12 years old 
@@ -69,7 +70,6 @@ here to shepherd and nurture them to have a proper humanity and to create an
 atmosphere so that they would be attracted to the Lord and enjoy being with God’s 
 people. 
 
-
 ### Care
 The most important qualification of a serving one is to have a caring heart. How we 
 are with the children, through the singing, craft, snacks, walk to the park, etc. is just 
@@ -77,7 +77,6 @@ as important as the lesson. The entire time with the children is an opportunity 
 the serving ones to infuse God’s love, to mold their character, to present a pattern 
 of proper humanity, to deposit God’s word in them little by little, and to cultivate 
 their heart to receive the Lord’s salvation in the future. 
-
 
 ### Family
 Our children’s meeting should have a family atmosphere where you sit around the 
@@ -100,6 +99,7 @@ In some districts, the children might join the parents for the Lord’s Table me
 its entirety or in part, and then have their own meeting afterwards. In other 
 districts, the children’s meeting might be concurrent with the Lord’s Table and 
 prophesying meeting. Here is a sample of a full meeting schedule as a reference: 
+
 * 9:30am-9:45am Welcome activities (simple games or coloring) 
 * 9:45-10:15am Songs 
 * 10:15-10:35am Snack 
@@ -190,17 +190,24 @@ Introduction: It is not necessary to have different age groups in separate class
 
 
 ## QUESTIONS AND ANSWERS ABOUT DISTRICTING AND THE CHILDREN
+
 __What do we do if there are only 1 or 2 children in our district?__
+
 If the children are young it would be best to see if you can care for them in your district. Ifthe children are older and/or need to be with some other children we would recommend that 2 districts combine their children’s meeting on the Lord’s Day. 
 
 __How will the children in our district see the other children in the church?__
+
 There will be opportunities throughout the year for the children to see children in the other districts. Every two months each district will blend with another district at Hall 1. The whole church will also meet together twice a year, once in the fall and once in the spring. During the summer the children will be together for the Summer Bible Camp. It is also possible that during the year we could arrange special events (picnic) for the children to be together. These special events will depend upon the burden of the parents to help with the arrangements. 
 
 __What if the children are different ages (in different grades)?__
+
 In a family it is an exception to have children of the same age. Our view for the children’s meeting on the Lord’s Day is that the atmosphere would be like that of a family rather than a school. The younger and older children can be together with the older children helping to care for the younger children. The serving ones would be like an older brother or sister (young people and college students) or an uncle or aunt. We also hope that the children could invite their friends from school to join the children’s meeting. 
 
 __Who will serve?__
+
 Saints who have both a heart for and a way with the children would be encouraged to serve. The young people can be a great help in carrying out the children’s meeting and should be encouraged to lead the singing, give the lesson, and provide the craft or activity ideas. 
 
 __What lessons and material will we use?__
+
 The church has prepared a new series of lessons for the districts to use. The lessons focus more on presenting a pattern of proper humanity than bible stories and truths. Therefore, it is not necessary that the serving ones be “good teachers” with extensive knowledge of the Bible. Along with the lessons there will also be songs (with audio files), craft and activities ideas, and a supply kit for the districts to use. The districts should not introduce their own material for the children’s meeting. 
+- - -
