@@ -11,3 +11,8 @@ permalink: /god-is/index.html
   {% endif %}
 {% endfor %}
 </ul>
+
+<br /><br />
+Have questions or suggestions? Contact us at [churchinirvine@gmail.com](mailto:churchinirvine@gmail.com) or send us feedback [on this form.](http://churchinirvine.org/Feedback.aspx).
+
+
