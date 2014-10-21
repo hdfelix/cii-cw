@@ -6,7 +6,7 @@ layout: default
   <h1 class="lesson-title">{{page.categories | capitalize }} - {{ page.topic | capitalize_all  }} ({{ page.lesson_no }})</h1>
   <br /><br />
 
-  <a class="pdf" href="/pdf/lessons/{{ page.lesson_no }}--{{ page.categories | capitalize }} - {{ page.topic | capitalize | replace: "'", "" | replace: " ", "-" | append: ".pdf" }}" target="_blank">view pdf</a> 
+  <a class="pdf" href="/pdf/lessons/{{ page.lesson_no }}--{{ page.topic | capitalize_as_title | replace: "'", "" | replace: " ", "-" | append: ".pdf" }}" target="_blank">view pdf</a> 
 
   {{ content }}
 
