@@ -184,7 +184,9 @@ with food dyes, etc. Cut up fruits with water are always good options.
 ## PRESENTATION OF THE LESSON 
 Introduction: It is not necessary to have different age groups in separate classrooms but it is necessary to give the lesson to different age groups separately or at different times. One group of children might do the craft or play while another group of children gets their lesson.
 
-* It is better for the lesson to be short than long. The following are suggested lengths for the lessons: Elementary – 10 minutes, Intermediate – 15 minutes, Advanced – 20 minutes. 6 
+* It is better for the lesson to be short than long. The following are suggested
+lengths for the lessons: Elementary – 10 minutes, Intermediate – 15 minutes,
+Advanced – 20 minutes. 6 
 * When giving the lesson be personal, interesting, and informal. Consider how to give the lesson without the classroom format (e.g. while taking a nature walk, while eating a snack). Do your best to engage the children. Make the lesson interactive where children are able to answer questions or express their thoughts. 
 * We should present the lessons in a very practical way, using many illustrations, examples and testimonies that are applicable to their daily life. Visuals can also help especially with the younger kids. Some useful visual aids are: white boards, pictures, and objects related to the lesson. Skits or plays should not be used to give a lesson. 
 * Stories, especially real life stories, are an excellent way to convey the lesson. Serving ones are encouraged to include a story, even one from their own experience, in the lesson. Please be careful not to tell a story which is a fairytale, fable or folklore or that includes: dragons, sorcery, or themes related to Christmas, Easter, Valentine’s Day or Halloween. 
