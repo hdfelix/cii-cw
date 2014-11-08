@@ -8,7 +8,7 @@ published: true
 
 ## Elementary
 ### Verses 
-"…If therefore your eye is single, your whole body will be full of light." - _[(Matthew 6:22b](http://online.recoveryversion.org/bibleverses.asp?fvid=160&lvid=160)_
+"…If therefore your eye is single, your whole body will be full of light." - _[Matthew 6:22b](http://online.recoveryversion.org/bibleverses.asp?fvid=160&lvid=160)_
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed. They do not try to do too many things at one time. 
