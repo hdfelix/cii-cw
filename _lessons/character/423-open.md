@@ -7,6 +7,7 @@ published: true
 ---
 
 ## Elementary
+
 ### Verses 
 "Hear instruction, and be wise; / And do not neglect it." - _[Proverbs 8:33](http://online.recoveryversion.org/bibleverses.asp?fvid=24594&lvid=24594)_
 
