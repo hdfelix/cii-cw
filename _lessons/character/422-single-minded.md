@@ -3,36 +3,40 @@ layout: lesson
 topic: single minded
 categories: character
 lesson_no: 422
+published: true
 ---
 
 ## Elementary
 ### Verses 
-"But let your word be, Yes, yes; No, no." - _[Matthew 5:37a](http://online.recoveryversion.org/bibleverses.asp?fvid=127&lvid=127)_
+"…If therefore your eye is single, your whole body will be full of light" - _[(Matthew 6:22b](http://online.recoveryversion.org/bibleverses.asp?fvid=160&lvid=160)_
 
 ### Focus
-A person with a strong character is someone who is able to do what is right no matter how hard it may be. They are strong to stay with the right choice rather than being pressured by others into changing their mind.
+A single-minded person is someone who is able to focus on one task at a time until it is completed. They do not try to do too many things at one time. 
 
 ### Practical Application
-Suppose you are at the playground and see some kids jump off the play structure when they are not supposed to. One of the kids says that it is so fun and asks you to try it. You know that this is not right and not safe. What would you do? A person with a strong character will do what is right and not be persuaded by what other people say to them. Discuss with the children some other examples of being strong and doing the right thing.
+ Bring with you three soft balls for the children to toss. Ask one of the children to toss one ball to themselves for a few times. Then hand them the second ball and ask them to toss two balls at the same time. Finally, have them try to toss three balls at one time. Use this to illustrate that it is hard for us to do two or more things at one time. When we are doing our homework (or a 
+chore) we cannot also be playing with a toy or reading a comic book. Our mind should focus on the task at hand until it is done. 
 
 ## Intermediate
 
 ### Verses
-“For God has not given us a spirit of cowardice, but of power...” - _[2 Timothy 1:7a](http://online.recoveryversion.org/bibleverses.asp?fvid=6672&lvid=6672)_
+““…Your eyes are like doves.” - _[(Song of Solomon 1:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=25511&lvid=25511); cf. [Matthew 3:16](http://online.recoveryversion.org/bibleverses.asp?fvid=64&lvid=64), note 4:_ A dove’s eyes can see only one thing at a time. Hence, it signifies singleness in sight and purpose.
 
 ### Focus
-A person with a strong character is someone who does not keep changing their mind after making a decision. They do not have a “jellyfish” will when making a choice.
+A single-minded person is someone who is able to focus on one task at a time until it is completed. They maintain their concentration on a matter for as long as needed.
 
 ### Practical Application
-Suppose a friend invites several people to her house after school. You decide not to go because you have a school project that you have to finish, but then you find out that all your friends are going. Do you change your decision? Another example is in learning to play a musical instrument (or a sport or a new language, etc.). You found it very interesting and enjoyable at first, but after a while, it became harder and thus required more time and effort to learn and practice. Would you give up and quit, or would you stick to your decision and keep practicing? What would happen if you keep changing your mind every time you encounter difficulties? A person with a strong character will not keep changing their mind once they make a decision.
+Use the ball activity explained in the elementary level. Many times we are 
+given a chore or a task (e.g., to practice an instrument) that takes time to do. We need to undertake the chore or task by focusing from the beginning until the end. We cannot switch halfway through our chore to do something else. We must be single-minded to complete the task without losing sight of the goal.
 
 ## Advanced
 
 ### Verses
-"Only be strong and very courageous, being certain to do according to all the law which Moses My servant commanded you. Do not turn away from it to the right or to the left, that you may have success wherever you go." - _[Joshua 1:7](http://online.recoveryversion.org/bibleverses.asp?fvid=13817&lvid=13817)_
+"I have fought the good fight; I have finished the course; I have kept the faith” - _[2 Timothy 4:7](http://online.recoveryversion.org/bibleverses.asp?fvid=6733&lvid=6733)_
 
 ### Focus
-A person with a strong character is able to keep standing for what is right against opposition and is able to continue towards the goal no matter how difficult the way. They learn to make a decision and to stick with it no matter what.
+A single-minded person is someone who is able to focus on one task at a time until it is completed; they are not easily distracted. They learn to set a goal and focus their attention and effort until the goal is reached.
 
 ### Practical Application
-Tell Bible stories of men like Joshua and Caleb who remained strong despite oppositions and hardships ([Numbers 13:25-14:10](http://online.recoveryversion.org/bibleverses.asp?fvid=12059&lvid=12077)), or Paul in his ministry journeys despite his afflictions and imprisonments ([Acts 13:4-28:31](http://online.recoveryversion.org/bibleverses.asp?fvid=4222&lvid=4786); [2 Corinthians 11:23-28](http://online.recoveryversion.org/bibleverses.asp?fvid=5868&lvid=5873)). Tell inspiring stories of spiritual men (e.g., William Tyndale – the first person to translate the Bible into English; James Hudson Taylor – missionary to China; David Livingstone – missionary to Africa, etc.), who after making a decision, were strong, determined, and never backed out despite poverty, long and disastrous voyages, oppositions, rejection, discrimination, martyrdom, etc.
+ Use the ball activity explained in the elementary level. Some things are not 
+accomplished in a short period of time. There are things, which might take months, a year or even years for us to finish. When doing these things we cannot change our mind back and forth. Our mind must stay focused on finishing what we set out to do. Someone who runs a marathon cannot get distracted during the race and stop for a hamburger. If someone wants to be an astronaut or a surgeon they need to study the right subjects at school for many years. They cannot keep changing their mind from year to year; rather they need to focus their attention and set their mind, no matter what challenges they may face.
