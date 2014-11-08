@@ -8,7 +8,7 @@ published: true
 
 ## Elementary
 ### Verses
-"And be kind to one another, tenderhearted." - _Ephesians 4:32a_
+"And be kind to one another, tenderhearted." - _[Ephesians 4:32a](http://online.recoveryversion.org/bibleverses.asp?fvid=6160&lvid=6160)_
 
 ### Focus
 An affectionate person is someone who is caring and tenderhearted towards people. They are warm and friendly to be around.
@@ -21,7 +21,7 @@ Song: No one likes to be left out
 ## Intermediate
 
 ### Verses
-“But whoever has the livelihood of the world and sees that his brother has need and shuts up his affections from him, how does the love of God abide in him?.” - _1 John 3:17_
+“But whoever has the livelihood of the world and sees that his brother has need and shuts up his affections from him, how does the love of God abide in him?.” - _[1 John 3:17](http://online.recoveryversion.org/bibleverses.asp?fvid=7452&lvid=7452)_
 
 ### Focus
 An affectionate person is someone who has sympathy towards people. When a person approaches them with a problem, they are understanding, caring and feel for that person’s situation.
@@ -33,7 +33,7 @@ If your friend comes to you and says he/she is hurt because someone said or did 
 
 ### Verses
 "And finally be all of the same mind, sympathetic, loving the brothers, tenderhearted,
-humble-minded." - _1 Peter 3:8_
+humble-minded." - _[1 Peter 3:8](http://online.recoveryversion.org/bibleverses.asp?fvid=7288&lvid=7288)_
 
 ### Focus
 An affectionate person is someone who is caring, tenderhearted, and sympathetic towards people, but they are not loose in how they display their affection. They are approachable and express their care and concern for people in a proper way.
