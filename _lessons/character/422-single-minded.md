@@ -32,7 +32,7 @@ given a chore or a task (e.g., to practice an instrument) that takes time to do.
 ## Advanced
 
 ### Verses
-"I have fought the good fight; I have finished the course; I have kept the faith.” - _[2 Timothy 4:7](http://online.recoveryversion.org/bibleverses.asp?fvid=6733&lvid=6733)_
+"I have fought the good fight; I have finished the course; I have kept the faith." - _[2 Timothy 4:7](http://online.recoveryversion.org/bibleverses.asp?fvid=6733&lvid=6733)_
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed; they are not easily distracted. They learn to set a goal and focus their attention and effort until the goal is reached.

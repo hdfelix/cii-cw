@@ -21,8 +21,7 @@ Suggested Song: Parents and teachers, leaders and the coach
 ## Intermediate
 
 ### Verses
-“So then he who resists the authority opposes God's ordination, and those who oppose will receive judgment to
-￼themselves.” - _[Romans 13:2](http://online.recoveryversion.org/bibleverses.asp?fvid=5124&lvid=5124)_
+"So then he who resists the authority opposes God's ordination, and those who oppose will receive judgment to themselves." - _[Romans 13:2](http://online.recoveryversion.org/bibleverses.asp?fvid=5124&lvid=5124)_
 
 ### Focus
 A submissive person obeys the will of someone who is in authority. They agree to do or accept something that they themselves would not ordinarily want or choose.
@@ -33,8 +32,7 @@ Sometimes we are asked to do something and we really don’t mind doing it (like
 ## Advanced
 
 ### Verses
-"Let every person be subject to the authorities over him, for there is no authority except from God, and those
-which exist are ordained by God." - _[Romans 13:1](http://online.recoveryversion.org/bibleverses.asp?fvid=5123&lvid=5123)_
+"Let every person be subject to the authorities over him, for there is no authority except from God, and those which exist are ordained by God." - _[Romans 13:1](http://online.recoveryversion.org/bibleverses.asp?fvid=5123&lvid=5123)_
 
 ### Focus
 A submissive person obeys the will and way of someone who is in authority. They agree to accept a way that they themselves may not otherwise choose.

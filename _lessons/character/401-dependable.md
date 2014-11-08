@@ -47,8 +47,9 @@ necessary in order to make delicious cookies.)
 "As for this house that you are building, if you walk in My statutes and execute My
 ordinances and keep all My commandments by walking in them, then I will establish My
 word with you, which I spoke to David your father; And I will dwell in the midst of the
-children of Israel, and I will not forsake My people Israel” (1 Kings 6:12-13).
-“So Solomon built the house and finished it." - 1 Kings 6:14_
+children of Israel, and I will not forsake My people Israel." - _1 Kings 6:12-13_
+
+"So Solomon built the house and finished it." - _1 Kings 6:14_
 
 ### Focus
 A dependable person is someone who can be trusted to do or provide what is needed, no matter how difficult the circumstances.

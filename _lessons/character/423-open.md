@@ -31,7 +31,7 @@ We need to be willing to hear what others have to say and to be adjusted. When y
 ## Advanced
 
 ### Verses
-"The way of a fool is right in his own eyes, / But a wise man listens to counsel.” - _[Proverbs 12:15](http://online.recoveryversion.org/bibleverses.asp?fvid=24693&lvid=24693)_
+"The way of a fool is right in his own eyes, / But a wise man listens to counsel." - _[Proverbs 12:15](http://online.recoveryversion.org/bibleverses.asp?fvid=24693&lvid=24693)_
 
 ### Focus
 An open person is someone who is able to admit to others that they need help in a particular matter or admit that certain things are bothering them.

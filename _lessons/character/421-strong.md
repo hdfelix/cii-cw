@@ -19,7 +19,7 @@ Suppose you are at the playground and see some kids jump off the play structure 
 ## Intermediate
 
 ### Verses
-“For God has not given us a spirit of cowardice, but of power...” - _[2 Timothy 1:7a](http://online.recoveryversion.org/bibleverses.asp?fvid=6672&lvid=6672)_
+"For God has not given us a spirit of cowardice, but of power..." - _[2 Timothy 1:7a](http://online.recoveryversion.org/bibleverses.asp?fvid=6672&lvid=6672)_
 
 ### Focus
 A person with a strong character is someone who does not keep changing their mind after making a decision. They do not have a “jellyfish” will when making a choice.

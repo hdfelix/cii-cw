@@ -19,7 +19,7 @@ Your teacher is ready to dismiss the class for the day, but your tablemate does 
 ## Intermediate
 
 ### Verses
-“A tranquil heart is life to the flesh” - _[Proverbs 14:30a](http://online.recoveryversion.org/bibleverses.asp?fvid=24761&lvid=24761)_
+"A tranquil heart is life to the flesh." - _[Proverbs 14:30a](http://online.recoveryversion.org/bibleverses.asp?fvid=24761&lvid=24761)_
 
 ### Focus
 A calm person is someone who is quiet and peaceful in their mind and emotions. A calm person does not react quickly to things nor get overly excited or disappointed.
