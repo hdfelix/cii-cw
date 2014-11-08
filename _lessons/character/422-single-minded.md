@@ -8,7 +8,7 @@ published: true
 
 ## Elementary
 ### Verses 
-"…If therefore your eye is single, your whole body will be full of light" - _[(Matthew 6:22b](http://online.recoveryversion.org/bibleverses.asp?fvid=160&lvid=160)_
+"…If therefore your eye is single, your whole body will be full of light." - _[(Matthew 6:22b](http://online.recoveryversion.org/bibleverses.asp?fvid=160&lvid=160)_
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed. They do not try to do too many things at one time. 
@@ -20,7 +20,7 @@ chore) we cannot also be playing with a toy or reading a comic book. Our mind sh
 ## Intermediate
 
 ### Verses
-““…Your eyes are like doves.” - _[Song of Solomon 1:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=25511&lvid=25511); cf. [Matthew 3:16](http://online.recoveryversion.org/bibleverses.asp?fvid=64&lvid=64), note 4:_ A dove’s eyes can see only one thing at a time. Hence, it signifies singleness in sight and purpose.
+"…Your eyes are like doves." - _[Song of Solomon 1:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=25511&lvid=25511); cf. [Matthew 3:16](http://online.recoveryversion.org/bibleverses.asp?fvid=64&lvid=64), note 4:_ A dove’s eyes can see only one thing at a time. Hence, it signifies singleness in sight and purpose.
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed. They maintain their concentration on a matter for as long as needed.
@@ -32,7 +32,7 @@ given a chore or a task (e.g., to practice an instrument) that takes time to do.
 ## Advanced
 
 ### Verses
-"I have fought the good fight; I have finished the course; I have kept the faith” - _[2 Timothy 4:7](http://online.recoveryversion.org/bibleverses.asp?fvid=6733&lvid=6733)_
+"I have fought the good fight; I have finished the course; I have kept the faith.” - _[2 Timothy 4:7](http://online.recoveryversion.org/bibleverses.asp?fvid=6733&lvid=6733)_
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed; they are not easily distracted. They learn to set a goal and focus their attention and effort until the goal is reached.
