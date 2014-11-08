@@ -31,6 +31,7 @@ When your parents point out mistakes in your homework, what is your reaction? Do
 
 ### Verses
 "But he who has a hasty spirit exalts folly." - _[Proverbs 14:29b](http://online.recoveryversion.org/bibleverses.asp?fvid=24760&lvid=24760)_
+
 "The simple man believes every word, / But the prudent man considers his steps." - _[Proverbs 14:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=24746&lvid=24746)_
 
 ### Focus

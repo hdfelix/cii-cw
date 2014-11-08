@@ -6,10 +6,10 @@ lesson_no: 300
 ---
 
 ### Elementary
-<br />
+
 #### Verses
-“I am Jehovah your God” (Exodus 20:2a). 
-“You shall have no other gods before Me” (Exodus 20:3). 
+"I am Jehovah your God" - _Exodus 20:2a_.
+"You shall have no other gods before Me." - _Exodus 20:3_.
 
 #### Focus
 The first commandment of God is that we should have no other gods. Our God is the only God.
@@ -25,13 +25,11 @@ in, and gave us life. How do you think God would feel if we don’t pray to Him 
 come to the children’s meeting? God is the only God and His name is Jesus Christ.
 No one else is God and we do not believe in any other gods and should not love
 anything else above God.
-<hr />
 
 ### Intermediate
-<br />
 
 #### Verses
-“I am Jehovah and there is no one else; Besides Me there is no God” (Isaiah 45:5a). 
+"I am Jehovah and there is no one else; Besides Me there is no God." - _Isaiah 45:5a_
 
 #### Focus
 The first commandment of God is that we should have no other gods. There are not many 
@@ -50,11 +48,10 @@ universe. He created the heavens, the earth, and all things, including you and m
 <hr />
 
 ### Advanced
-<br />
 
 #### Verses
-“And there is salvation in no other, for neither is there another name under heaven given 
-among men in which we must be saved” (Acts 4:12). 
+"And there is salvation in no other, for neither is there another name under heaven given 
+among men in which we must be saved." - _Acts 4:12_ 
 
 #### Focus
 The first commandment of God is that we should have no other gods. There is only one God 
@@ -69,5 +66,4 @@ us that there is only one God and Savior, Jesus Christ. Consider reading with th
 children some verses about how salvation is only through Jesus Christ
 (e.g., John 14:6; 1 John 5:11-13; John 3:16). If a child is touched by this 
 particular point or by these verses, then the serving one may consider discussing
-the topic of salvation more. 
-
+the topic of salvation more.
