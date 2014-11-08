@@ -20,7 +20,7 @@ chore) we cannot also be playing with a toy or reading a comic book. Our mind sh
 ## Intermediate
 
 ### Verses
-““…Your eyes are like doves.” - _[(Song of Solomon 1:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=25511&lvid=25511); cf. [Matthew 3:16](http://online.recoveryversion.org/bibleverses.asp?fvid=64&lvid=64), note 4:_ A dove’s eyes can see only one thing at a time. Hence, it signifies singleness in sight and purpose.
+““…Your eyes are like doves.” - _[Song of Solomon 1:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=25511&lvid=25511); cf. [Matthew 3:16](http://online.recoveryversion.org/bibleverses.asp?fvid=64&lvid=64), note 4:_ A dove’s eyes can see only one thing at a time. Hence, it signifies singleness in sight and purpose.
 
 ### Focus
 A single-minded person is someone who is able to focus on one task at a time until it is completed. They maintain their concentration on a matter for as long as needed.
