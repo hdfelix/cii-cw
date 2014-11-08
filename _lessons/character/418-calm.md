@@ -8,7 +8,7 @@ published: true
 
 ## Elementary
 ### Verses
-"He who is slow to anger is of great understanding." - _Proverbs 14:29a_
+"He who is slow to anger is of great understanding." - _[Proverbs 14:29a](http://online.recoveryversion.org/bibleverses.asp?fvid=24760&lvid=24760)_
 
 ### Focus
 A calm person is someone who is quiet and peaceful in their emotions. A calm person does not get upset quickly or easily.
@@ -19,7 +19,7 @@ Your teacher is ready to dismiss the class for the day, but your tablemate does 
 ## Intermediate
 
 ### Verses
-“A tranquil heart is life to the flesh” - _Proverbs 14:30a_
+“A tranquil heart is life to the flesh” - _[Proverbs 14:30a](http://online.recoveryversion.org/bibleverses.asp?fvid=24761&lvid=24761)_
 
 ### Focus
 A calm person is someone who is quiet and peaceful in their mind and emotions. A calm person does not react quickly to things nor get overly excited or disappointed.
@@ -30,13 +30,12 @@ When your parents point out mistakes in your homework, what is your reaction? Do
 ## Advanced
 
 ### Verses
-"But he who has a hasty spirit exalts folly." - _Proverbs 14:29b_
-"The simple man believes every word, / But the prudent man considers his steps." - _Proverbs
-14:15b_
+"But he who has a hasty spirit exalts folly." - _[Proverbs 14:29b](http://online.recoveryversion.org/bibleverses.asp?fvid=24760&lvid=24760)_
+"The simple man believes every word, / But the prudent man considers his steps." - _[Proverbs 14:15b](http://online.recoveryversion.org/bibleverses.asp?fvid=24746&lvid=24746)_
 
 ### Focus
 A calm person is someone who is not easily excited in their thoughts and emotions. They do not react quickly to things, they do not believe rumors, and they have a calming effect on others.
 
 ### Practical Application
-Consider telling the story of the twelve spies (Numbers 13 and 14) to illustrate the importance of being calm. Emphasize how the assembly was quick to react to the evil report and become excited in their thoughts and emotions. Compare that to Joshua and Caleb, who were calm, brought in a good report, and believed that God would help them succeed.
+Consider telling the story of the twelve spies ([Numbers 13](http://online.recoveryversion.org/BibleChapters.asp?fcid=390&lcid=390) and [14](http://online.recoveryversion.org/BibleChapters.asp?fcid=391&lcid=391)) to illustrate the importance of being calm. Emphasize how the assembly was quick to react to the evil report and become excited in their thoughts and emotions. Compare that to Joshua and Caleb, who were calm, brought in a good report, and believed that God would help them succeed.
 How do you respond to certain situations? When you hear something negative about a classmate or a teacher, what is your reaction? Do you quickly believe and follow the others? Or do you remain calm, consider the situation, and find out whether the rumor is true or not? What if your sibling accidentally falls and starts crying? Your mother who was not present asks what you did to make them cry. How do you respond? Do you explain calmly to her what had happened, or do you get angry and act defensively towards her? Sometimes when we consider things calmly instead of quickly reacting, we can affect others around us and diffuse the situation.
