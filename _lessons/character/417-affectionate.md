@@ -1,8 +1,9 @@
 ---
 layout: lesson
-topic: affectionate 
+topic: affectionate
 categories: character
 lesson_no: 417
+published: true
 ---
 
 ## Elementary
@@ -10,49 +11,32 @@ lesson_no: 417
 "And be kind to one another, tenderhearted." - _Ephesians 4:32a_
 
 ### Focus
-An accommodating person is someone who makes room for others. They make room for others to stay at their home and they make room to include others in activities.
+An affectionate person is someone who is caring and tenderhearted towards people. They are warm and friendly to be around.
 
 ### Practical Application
-Suppose you are with other children coloring or eating a snack at a table and
-another child comes to join you. To accommodate that person, you would make room
-for him/her to sit next to you or move over in order to make plenty of room.
-Sometimes your parents might have people come stay at your house and they might ask
-you to give your room to them. If you are accommodating, you would not complain
-about moving out of your room temporarily, but rather you would tidy your room and
-have it look neat so that others may have a nice place to stay.
+When you meet a friend or a child you do not know, you should always greet him/her with a smile and a “hi” and invite them to join you in what you are doing. It does not feel good to walk into a room where you do not know anyone and just have everyone stare at you without smiling or speaking to you. To be affectionate, we should warmly welcome people. Have the children demonstrate how they could affectionately greet someone.
+
+Song: No one likes to be left out
 
 ## Intermediate
 
 ### Verses
-“Bear one another's burdens.” - _Galatians 6:2a_
+“But whoever has the livelihood of the world and sees that his brother has need and shuts up his affections from him, how does the love of God abide in him?.” - _1 John 3:17_
 
 ### Focus
-An accommodating person is someone who gives consideration to the requests and
-needs of others. They understand that others may have different needs than them.
+An affectionate person is someone who has sympathy towards people. When a person approaches them with a problem, they are understanding, caring and feel for that person’s situation.
 
 ### Practical Application
-You may be more athletic than another child and you are playing baseball. The game
-only allows everyone 3 swings but if you know another child needs 5 swings you would
-let him/her have the extra swings without complaining. You may want to eat your lunch
-quickly and run off and play but you know your friend does not eat as fast and also
-wants to play. To be accommodating to your friend, you would sit and wait patiently
-until your friend finishes, then the two of you can go play together.
+If your friend comes to you and says he/she is hurt because someone said or did something mean to them, you would try to understand how they are feeling and take care of them instead of just ignoring them. An affectionate person will take an interest in other’s feelings and situations, will show sympathy and concern for them, and do their best to console them. Have the children demonstrate how they would console a friend who has been hurt by someone’s words.
 
 ## Advanced
 
 ### Verses
-"Be of the same mind toward one another, not setting your mind on the high things but
-going along with the lowly; do not be wise in yourselves" - _Romans 12:16_
+"And finally be all of the same mind, sympathetic, loving the brothers, tenderhearted,
+humble-minded." - _1 Peter 3:8_
 
 ### Focus
-An accommodating person is someone who is willing to adapt for others. They understand
-that other people may have a different way of doing things or may have different needs.
-They are also willing to accommodate for those who are younger or lowlier than them.
+An affectionate person is someone who is caring, tenderhearted, and sympathetic towards people, but they are not loose in how they display their affection. They are approachable and express their care and concern for people in a proper way.
 
 ### Practical Application
-You may be playing a game that is complicated and has a specific way to play.
-However, a friend plays it another way or perhaps a younger sibling cannot play it
-like you do. To be accommodating, you would go along with your friend by playing it
-his/her way or change the rules to make it easier for a younger child to play.
-Consider telling the gospel story of God accommodating man by coming down to our
-level to care for our needs.
+If someone is hurt walking home from school, an affectionate person would stop to help and care for him in a gentle way or would help him get home to his parents, even if it makes that person late. If someone has lost something which is precious to him, an affectionate person would stop what they are doing to help that person look for what is lost. To be affectionate does not mean that you try to be overly helpful or that you give a lot of hugs to people. Rather, it is to show a gentle and caring concern for them.
