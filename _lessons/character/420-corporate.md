@@ -7,7 +7,8 @@ published: true
 ---
 
 ## Elementary
-### Verses "Love one another warmly in brotherly love; take the lead in showing honor one to another." - _[Romans 12:10](http://online.recoveryversion.org/bibleverses.asp?fvid=5111&lvid=5111)_
+### Verses
+"Love one another warmly in brotherly love; take the lead in showing honor one to another." - _[Romans 12:10](http://online.recoveryversion.org/bibleverses.asp?fvid=5111&lvid=5111)_
 
 ### Focus
 To be corporate is to be someone who is able to work with others. A corporate person is not one who is selfish, always wanting things done their way.
