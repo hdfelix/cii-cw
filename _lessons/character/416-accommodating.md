@@ -8,7 +8,7 @@ published: true
 
 ## Elementary
 ### Verses
-"Let us make a little walled upper room and put a bed and a table and a chair and a lamp for him.” - _[2 Kings 4:10a](http://online.recoveryversion.org/bibleverses.asp?fvid=17572&lvid=17572)_
+"Let us make a little walled upper room and put a bed and a table and a chair and a lamp for him." - _[2 Kings 4:10a](http://online.recoveryversion.org/bibleverses.asp?fvid=17572&lvid=17572)_
 
 ### Focus
 An accommodating person is someone who makes room for others. They make room for others to stay at their home and they make room to include others in activities.
@@ -22,7 +22,7 @@ Sometimes your parents might have people come stay at your house and they might 
 ## Intermediate
 
 ### Verses
-“Bear one another's burdens.” - _[Galatians 6:2a](http://online.recoveryversion.org/bibleverses.asp?fvid=6046&lvid=6046)_
+"Bear one another's burdens." - _[Galatians 6:2a](http://online.recoveryversion.org/bibleverses.asp?fvid=6046&lvid=6046)_
 
 ### Focus
 An accommodating person is someone who gives consideration to the requests and
