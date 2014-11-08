@@ -3,12 +3,12 @@ layout: lesson
 topic: accommodating
 categories: character
 lesson_no: 416
+published: true
 ---
 
 ## Elementary
 ### Verses
-"Let us make a little walled upper room and put a bed and a table and a chair and a lamp
-for him.” - _2 Kings 4:10a_
+"Let us make a little walled upper room and put a bed and a table and a chair and a lamp for him.” - _[2 Kings 4:10a](http://online.recoveryversion.org/bibleverses.asp?fvid=17572&lvid=17572)_
 
 ### Focus
 An accommodating person is someone who makes room for others. They make room for others to stay at their home and they make room to include others in activities.
@@ -25,7 +25,7 @@ have it look neat so that others may have a nice place to stay.
 ## Intermediate
 
 ### Verses
-“Bear one another's burdens.” - _Galatians 6:2a_
+“Bear one another's burdens.” - _[Galatians 6:2a](http://online.recoveryversion.org/bibleverses.asp?fvid=6046&lvid=6046)_
 
 ### Focus
 An accommodating person is someone who gives consideration to the requests and
@@ -43,7 +43,7 @@ until your friend finishes, then the two of you can go play together.
 
 ### Verses
 "Be of the same mind toward one another, not setting your mind on the high things but
-going along with the lowly; do not be wise in yourselves" - _Romans 12:16_
+going along with the lowly; do not be wise in yourselves." - _[Romans 12:16](http://online.recoveryversion.org/bibleverses.asp?fvid=5117&lvid=5117)_
 
 ### Focus
 An accommodating person is someone who is willing to adapt for others. They understand
