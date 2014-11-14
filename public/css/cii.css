@@ -1,4 +1,20 @@
-li { width: 530px; }
+li { width: 600px; } /* HDF: was 500px */
+
+@media (min-width: 20rem) {
+  li { width: 300px; }
+}
+
+@media (min-width: 25rem) {
+  li { width: 350px; }
+}
+
+@media (min-width: 38rem) {
+  li { width: 450px; }
+}
+@media (min-width: 48rem) {
+  li { width: 600px; }
+}
+
 li span { padding-right: 5px; float: right; }
 li span span { padding-left: 10px; }
 
