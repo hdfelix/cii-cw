@@ -1,7 +1,7 @@
 ---
 layout: lesson
-topic: corporate
-categories: character
+topic: strong
+categorie: strong 
 lesson_no: 421
 published: true
 ---
