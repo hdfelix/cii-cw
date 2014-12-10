@@ -1,6 +1,6 @@
 ---
 layout: lesson
-topic: strong
+topic: character 
 categorie: strong 
 lesson_no: 421
 published: true
