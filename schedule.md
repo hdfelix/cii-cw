@@ -49,6 +49,9 @@ layout: page
       <td><a href="/lessons/character/425-steadfast.html">Lesson 425 - Steadfast</td>
     </tr>
     <tr>
+      <td colspan="3"><center><strong>2015</strong></center></td>
+    </tr>
+    <tr>
       <td>12/28/14</td>
       <td>Character</td>
       <td><a href="/lessons/character/424-content.html">Lesson 424 - Content</td>
